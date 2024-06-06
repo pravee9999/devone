@@ -1,2 +1,3 @@
 devops class 6:30
 now we are learning git
+we completed local repository
